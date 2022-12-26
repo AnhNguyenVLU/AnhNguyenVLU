@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nguyen Thai Anh
 - 👀 I’m interested in Machine learning, AI, Deep learning.
+- Google Scholar me: https://scholar.google.com/citations?user=zGwo-PsAAAAJ&hl=en
 - 📫 How to reach me: Face book: https://www.facebook.com/AnhNguyen10082000
 
 <!---
