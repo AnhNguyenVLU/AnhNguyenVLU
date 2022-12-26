@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nguyen Thai Anh
-- 👀 I’m interested in Machine learning , AI, Deep learning, Remote sensing
+- 👀 I’m interested in Machine learning, AI, Deep learning.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me: Face book: https://www.facebook.com/AnhNguyen10082000
 
