@@ -8,7 +8,7 @@ anhnguyen1008/anhnguyen1008 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhnguyen1008&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnhNguyenVLU&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhnguyen1008&layout=compact&langs_count=8)](https://github.com/anhnguyen1008)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNguyenVLU&layout=compact&langs_count=8)](https://github.com/AnhNguyenVLU)
 
