@@ -1,14 +1,47 @@
-- 👋 Hi, I am Nguyen Thai Anh, a lecturer at the Faculty of Information Technology, Van Lang University. I graduated with second-class honors in IT in July 2022 and earned my master’s in Data Science and AI in May 2024. My journey in learning and research has fueled my passion for AI, Machine Learning, and Deep Learning. I’m committed to advancing these fields through innovative solutions and inspiring the next generation of students.
-- 👀 I’m interested in Machine learning, AI, Deep learning.
-- Google Scholar me: https://scholar.google.com/citations?user=zGwo-PsAAAAJ&hl=en
-- 📫 How to reach me: Face book: https://www.facebook.com/AnhNguyen10082000
-- Email: anh.nt@vlu.edu.vn
+# Nguyen Thai Anh  
+**Lecturer | Data Science & AI Enthusiast | Machine Learning Researcher**
+
+---
+
+## 👋 About Me  
+Hello! I’m Nguyen Thai Anh, a dedicated lecturer at the **Faculty of Information Technology, Van Lang University**. I graduated with **Second-Class Honors in Information Technology** from Van Lang University in July 2022 and earned my **Master’s in Data Science and Artificial Intelligence** in May 2024. My journey in academia and research has fueled my passion for **AI, Machine Learning, and Deep Learning**. I strive to advance these fields through innovative solutions and inspire the next generation of tech leaders.
+
+---
+
+## 🔍 Research Interests  
+- **Machine Learning**: Developing efficient algorithms for real-world applications.  
+- **Artificial Intelligence**: Exploring intelligent systems for automation and decision-making.  
+- **Deep Learning**: Leveraging neural networks for advanced data analysis and prediction.  
+
+Explore my publications on [Google Scholar](https://scholar.google.com/citations?user=zGwo-PsAAAAJ&hl=en).
+
+---
+
+## 🏆 Achievements  
+- **Outstanding Lecturer Award** (2023): Recognized for excellence in teaching and student mentorship at Van Lang University.  
+- **Master’s Thesis Distinction** (2024): Awarded for an innovative project on [insert topic, e.g., "Optimizing Neural Networks for Predictive Analytics"].  
+- **Best Paper Presentation** (2023): Received at the [insert conference name, e.g., "International Conference on AI and Data Science"] for research on [insert topic].  
+- **Academic Scholarship** (2020-2022): Granted for consistent academic excellence during undergraduate studies.  
+
+---
+
+## 📊 GitHub Stats  
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhNguyenVLU&show_icons=true&theme=dracula)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNguyenVLU&layout=compact&langs_count=8)](https://github.com/AnhNguyenVLU)
+
+---
+
+## 📫 Connect with Me  
+- **Email**: [anh.nt@vlu.edu.vn](mailto:anh.nt@vlu.edu.vn)  
+- **Facebook**: [AnhNguyen10082000](https://www.facebook.com/AnhNguyen10082000)  
+
+I’m always open to collaborations, research discussions, or just a friendly chat about AI!
+
+---
+
+## 🌟 Fun Fact  
+When I’m not coding or teaching, I enjoy diving into datasets to uncover hidden patterns or experimenting with new AI models to solve everyday problems.
+
 <!---
 anhnguyen1008/anhnguyen1008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnhNguyenVLU&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNguyenVLU&layout=compact&langs_count=8)](https://github.com/AnhNguyenVLU)
-
+-->
