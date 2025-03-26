@@ -17,14 +17,6 @@ Explore my publications on [Google Scholar](https://scholar.google.com/citations
 
 ---
 
-## 🏆 Achievements  
-- **Outstanding Lecturer Award** (2023): Recognized for excellence in teaching and student mentorship at Van Lang University.  
-- **Master’s Thesis Distinction** (2024): Awarded for an innovative project on [insert topic, e.g., "Optimizing Neural Networks for Predictive Analytics"].  
-- **Best Paper Presentation** (2023): Received at the [insert conference name, e.g., "International Conference on AI and Data Science"] for research on [insert topic].  
-- **Academic Scholarship** (2020-2022): Granted for consistent academic excellence during undergraduate studies.  
-
----
-
 ## 📊 GitHub Stats  
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhNguyenVLU&show_icons=true&theme=dracula)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNguyenVLU&layout=compact&langs_count=8)](https://github.com/AnhNguyenVLU)
